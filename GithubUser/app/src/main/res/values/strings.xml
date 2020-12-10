@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Club Indonesia</string>
+    <string name="club_name">Nama Club</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="About">About Me</string>
+    <string name="Email">renoldhadi@gmail.com</string>
+    <string name="penjelasa_aplikasi">Aplikasi ini di tunjukan kepada para penggemar sepak bola indonesia untuk lebih mengetahui tentang  club indonesia yang mereka cintai.</string>
+    <string name="renold_hadi_syahputra">Renold hadi s</string>
+    <string name="terima_kasih">Thank You</string>
+    <string name="tentang_saya">Tentang Saya</string>
+    <string name="app_version">APP VERSION 1.0</string>
+    <string-array name="data_name">
+        <item>Persib Bandung</item>
+        <item>Persija</item>
+        <item>Persebaya</item>
+        <item>Arema</item>
+        <item>Bhayangkara fc</item>
+        <item>Persipura</item>
+        <item>Sriwijaya FC</item>
+        <item>Psm Makasar</item>
+        <item>Borneo Fc</item>
+        <item>PSMS Medan</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Persib Bandung (Persatuan Sepak Bola Indonesia Bandung)adalah klub sepak bola Indonesia yang berdiri pada 14 Maret 1933, berbasis di Bandung, Jawa Barat. Persib saat ini bermain di Liga 1 Indonesia. Julukan mereka adalah Maung Bandung dan Pangeran Biru. Sponsor utama dan terbesar masih di pegang Indofood dan apparel jersey yang terbaru adalah Sportama.</item>
+        <item>Persija (singkatan dari Persatuan Sepak Bola Indonesia Jakarta) adalah klub sepak bola Indonesia yang berbasis di Jakarta. Persija saat ini berlaga di Liga 1. Persija merupakan salah satu klub sepakbola paling sukses di sejarah sepakbola Indonesia dengan torehan 2 kali juara liga domestik dan 9 kali juara turnamen perserikatan hingga sejauh ini.</item>
+        <item>Persebaya Surabaya yang sempat mengubah namanya menjadi Persebaya 1927,[3] adalah sebuah klub Sepak bola profesional di Indonesia yang berbasis di Surabaya yang berdiri pada 18 Juni 1927 dengan nama asalnya adalah Soerabajasche Indische Voetbal Bond (SIVB) dan sudah malang melintang dikancah sepak bola Indonesia. Sempat di bekukan oleh PSSI dan disahkan kembali oleh PSSI sebagai anggota di Kongres Tahunan PSSI Bandung pada tanggal 8 Januari 2017.</item>
+        <item>Arema FC (dahulu bernama Arema Cronus) , atau biasa disebut dan dikenal sebagai Arema Malang, adalah sebuah klub sepak bola profesional yang berasal dari Malang, Jawa Timur, Indonesia. Arema didirikan pada tanggal 11 Agustus 1987, Arema mempunyai julukan "Singo Edan". Dalam Liga 1, Arema bermarkas di Stadion Kanjuruhan, Kabupaten Malang dan Stadion Gajayana, Kota Malang. Arema adalah tim sekota dari Persema Malang, Persekam Metro, dan Malang United.</item>
+        <item>Bhayangkara Solo Football Club adalah sebuah tim sepak bola Indonesia yang dimiliki oleh Polri yang berbasis di Solo. Klub ini bermain di Liga 1. Klub ini juga memegang rekor sebagai klub dengan pergantian nama terbanyak di Indonesia, semuanya karena dualisme yang pernah terjadi antara klub ini dengan klub Persebaya Surabaya pada rentang waktu 2010 sampai 2016.</item>
+        <item>Persatuan Sepak bola Indonesia Jayapura (disingkat Persipura Jayapura) adalah sebuah klub sepak bola Indonesia yang bermarkas di Jayapura, Papua. Prestasi tertingginya hingga kini adalah menjadi empat kali juara Liga Indonesia dari tahun 2005 hingga 2013[1]. Di era Perserikatan, prestasi Persipura adalah runner-up Divisi Utama (1980) dan dua kali juara Divisi I (1979 dan 1993). Persipura juga dikenal sebagai klub bola yang melahirkan pemain lokal yang berkualitas internasional seperti Boaz Solossa, Ardiles Rumbiak, Chris Yarangga, Christian Warobay, Erol Iba, Gerald Pangkali, Jack Komboy, Yohanes Auri, Stevie Bonsapia, Titus Bonai, Jendri Pitoy, Eduard Ivakdalam, Ricardo Salampessy, Patrich Wanggai, Osvaldo Haay, Todd Rivaldo Ferre.</item>
+        <item>Sriwijaya Football Club (disingkat Sriwijaya FC) adalah sebuah klub sepak bola Indonesia yang bermarkas di Palembang. Tim berjuluk Laskar Wong Kito ini merupakan tim yang dimiliki oleh PT Sriwijaya Optimis Mandiri (PT SOM) setelah terjadi penjualan opsi kepemilikan dari Pemerintah Provinsi Sumatra Selatan. Presiden Sriwijaya saat ini adalah Asfan Fikri Sanaf. Tim berkostum merah maron (Home) dan putih (Away) bermotif songket ini memiliki tiga kelompok suporter, Sriwijaya Mania (S–Man), Singa Mania, Ultras Palembang. Sriwijaya FC adalah juara Divisi Utama Liga Indonesia 2007 dan Liga Super Indonesia 2011–12. Sepanjang klub ini berdiri, klub ini selalu berada di kasta tertinggi persepakbolaan Indonesia. Bahkan, klub ini juga pernah memenangkan gelar ganda pada musim 2006/2007 dan 2011/2012. Sayangnya, pada musim 2018, klub ini berada pada urutan 16 klasemen akhir Liga 1, sehingga untuk pertama kalinya klub ini terdegradasi ke Liga 2.</item>
+        <item>Persatuan Sepak bola Makassar (disingkat PSM Makassar) adalah sebuah tim sepak bola Indonesia yang berbasis di Makassar, Sulawesi Selatan, Indonesia, yang dikenal pasukan Ramang atau Juku Eja. PSM Makassar saat ini bermain di Shopee Liga 1, setelah sebelumnya pernah bermain di Liga Primer Indonesia. PSM Makassar merupakan salah satu tim terkuat di Indonesia dan telah mewakili Indonesia dalam Liga Champions Asia sebanyak tiga kali. PSM Makassar merupakan tim dengan catatan prestasi paling stabil di pentas Liga Indonesia, dengan sekali menjadi juara, delapan kali runner up, dan hanya sekali gagal masuk putaran final. PSM Makassar adalah tim tertua di Indonesia. Pada tahun 2014, PSM Makassar kembali ke Liga Super Indonesia setelah lolos play-off unifikasi liga PSSI.</item>
+        <item>Borneo F.C. adalah klub sepak bola Indonesia yang berasal dari Samarinda, Kalimantan Timur, Indonesia. Pada awal berdirinya klub ini bermain di Divisi Utama Liga Indonesia 2014 setelah mengakuisisi klub Perseba Super Bangkalan pada tanggal 7 Maret 2014, menggantikan Persisam Samarinda sebagai Klub asal samarinda, Kalimantan Timur yang berkompetisi di liga teratas di Indonesia. Pada 2015, mereka berlaga di Indonesia Super League berstatus sebagai klub promosi setelah berhasil keluar sebagai juara Divisi Utama Liga Indonesia 2014 setelah mengalahkan Persiwa Wamena di partai final.</item>
+        <item>PSMS Medan dirikan pada tanggal 21 April 1950. Meski demikian sejak tahun 1930 telah berdiri klub Medansche Voetbal Club (MSV) yang diyakini merupakan embrio PSMS. Sejak dahulu kota Medan dikenal dunia oleh karena perkebunan tembakau Delinya. Tak heran bahwasannya logo PSMS berupa "daun" dan "bunga tembakau Deli".</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/id/1/12/Logo_Persib.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/9/94/Persija_Jakarta_logo.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/f/f8/Logo_Persebaya_Surabaya.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Arema_Malang.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/f/fe/Logo_Bhayangkara_Solo_FC.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Persipura_Jayapura.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/c/c7/Logo_Sriwijaya_FC_2009.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/b/b8/Logo_PSM_Makasar_Baru.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/2/23/Logo_Borneo_FC.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/0/0c/LogoPSMS.png</item>
+    </string-array>
+</resources>
